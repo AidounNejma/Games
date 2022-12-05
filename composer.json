@@ -1,0 +1,19 @@
+{
+    "name": "htdocs/games",
+    "description": "games",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NejmaAidoun",
+            "email": "guermachenejma@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.0"
+    }
+}
