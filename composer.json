@@ -1,4 +1,7 @@
 {
+    "config": {
+        "platform-check": false
+    },
     "name": "htdocs/games",
     "description": "games",
     "type": "project",
